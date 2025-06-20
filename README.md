@@ -1,8 +1,6 @@
 # midjourney-video-mjvideo-org
 
-# MJVideo - AI-Powered Image-to-Video Transformation
-
-![mjvideo.org](https://mjvideo.org)
+[mjvideo.org](https://mjvideo.org)
 
 ## 🎬 Transform Static Images into Stunning AI Videos
 
