@@ -2,7 +2,7 @@
 
 # MJVideo - AI-Powered Image-to-Video Transformation
 
-![MJVideo Logo](https://mjvideo.org/icon.png)
+![mjvideo.org](https://mjvideo.org)
 
 ## 🎬 Transform Static Images into Stunning AI Videos
 
